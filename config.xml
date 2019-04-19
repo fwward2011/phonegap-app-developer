@@ -4,8 +4,8 @@
     <description>
         The PhoneGap Developer app is a testing utility for web developers and designers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        Adobe PhoneGap Team
+    <author email="forrest.ward@globalspotz.com" href="http://globalspotz.com">
+        Forrest Ward CTO
     </author>
     <hook src="resources/script/before-test-runner.js" type="before_prepare" />
     <hook src="resources/script/after-test-runner.js" type="after_prepare" />
